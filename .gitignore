@@ -1,0 +1,26 @@
+
+*.pkl
+*cache/*
+*.html
+*.pyc
+*.nc
+*/output/*
+*/cache/*
+*.webm
+map22/out_ice/*
+map*/tmp/*
+map30/data/era5*
+*.gif
+map28/Import and Export Energy-Charts*
+map*/data/kvs
+*.tif
+map30/extruded.png
+*.csv
+*.xlsx
+map*/ne_110m_admin_0_countries/*
+*.jpg
+map14/Map14-Europe-Heartstopper.xcf
+*.png
+map*/ne_*
+*.htm
+*.exe
