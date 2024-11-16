@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Britain in Bloom.kml</name>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Folder>
+		<name>Britain in Bloom</name>
+		<open>1</open>
+		<description>https://www.rhs.org.uk/get-involved/britain-in-bloom/bloom-awards-results#awardsandwinnerslist</description>
+		<Placemark>
+			<name>Cullybackey Community Partnership, Ulste, Gold</name>
+			<LookAt>
+				<longitude>-6.354028500532604</longitude>
+				<latitude>54.88838779892934</latitude>
+				<altitude>0</altitude>
+				<heading>-4.356103594505839e-10</heading>
+				<tilt>0</tilt>
+				<range>1000.000033748408</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-6.354028500532603,54.88838779892934,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cannington in Bloom, South West, Gold</name>
+			<LookAt>
+				<longitude>-3.069309905590242</longitude>
+				<latitude>51.15034279872508</latitude>
+				<altitude>0</altitude>
+				<heading>-4.353218831409752e-09</heading>
+				<tilt>0</tilt>
+				<range>5982.800655291011</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-3.069309905590242,51.15034279872508,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Floral Forest, Guernsey, Gold</name>
+			<LookAt>
+				<longitude>-2.589493887558005</longitude>
+				<latitude>49.44936324371879</latitude>
+				<altitude>0</altitude>
+				<heading>9.454381274975152e-09</heading>
+				<tilt>0</tilt>
+				<range>11288.47204951364</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-2.601954569291695,49.42962255450124,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Great Coates in Bloom, East Midlands, Gold</name>
+			<LookAt>
+				<longitude>-0.138773462770666</longitude>
+				<latitude>53.57058525817351</latitude>
+				<altitude>0</altitude>
+				<heading>-2.668867269184821e-08</heading>
+				<tilt>0</tilt>
+				<range>2729.848161511799</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-0.138773462770666,53.57058525817352,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Holywell in Bloom, Northumbria, Silver Gilt</name>
+			<LookAt>
+				<longitude>-1.508014787102769</longitude>
+				<latitude>55.06490257159636</latitude>
+				<altitude>0</altitude>
+				<heading>4.768637041895728e-09</heading>
+				<tilt>0</tilt>
+				<range>1315.444250223967</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-1.508014787102769,55.06490257159636,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lauder in Bloom, Scotland, Gold</name>
+			<LookAt>
+				<longitude>-2.756613983286032</longitude>
+				<latitude>55.72293619005942</latitude>
+				<altitude>0</altitude>
+				<heading>-1.492455443579083e-06</heading>
+				<tilt>0</tilt>
+				<range>2565.111458637283</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-2.756613983286033,55.72293619005942,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Roberttown in Bloom, Yorkshire, Gold</name>
+			<LookAt>
+				<longitude>-1.705097114005696</longitude>
+				<latitude>53.69928142966619</latitude>
+				<altitude>0</altitude>
+				<heading>1.052681247052334e-07</heading>
+				<tilt>0</tilt>
+				<range>1461.077181226984</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-1.705097114005696,53.69928142966619,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Saundersfoot in Bloom, Wales, Silver Gilt</name>
+			<LookAt>
+				<longitude>-4.69972525805693</longitude>
+				<latitude>51.70937950212747</latitude>
+				<altitude>0</altitude>
+				<heading>-2.354371968587611e-08</heading>
+				<tilt>0</tilt>
+				<range>5658.874602262562</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-4.69972525805693,51.70937950212747,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
